@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, music production and traveling.
 - 🌱 I’m currently learning Android App Development.
 - 💞️ I’m looking to collaborate on open-source projects within the DeFi ecosystem, and my own projects.
-- 📫 How to reach me: webx.breeze030@passinbox.com|Discord: tylermdgl|X: engineeredbytmc
+- 📫 How to reach me: webx.breeze030@passinbox.com|X: engineeredbytmc
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: Teaching myself how to program lead me on a journey to achieve my PHD.
 
