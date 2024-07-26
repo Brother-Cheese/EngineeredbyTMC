@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EngineeredbyTMC
+- 👋 Hi, I’m @brother-cheese.
 - 👀 I’m interested in coding, music production and traveling.
 - 🌱 I’m currently learning Android App Development.
 - 💞️ I’m looking to collaborate on open-source projects within the DeFi ecosystem, and my own projects.
